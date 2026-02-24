@@ -99,21 +99,21 @@ The skill follows a strict **4-layer model**:
 
 ```bash
 # Clone into your skills directory
-git clone https://github.com/ianperezdev/slidev-agent-skill.git \
+git clone https://github.com/6missedcalls/slidev-agent-skill.git \
   ~/.claude/skills/slidev-agent-skill
 ```
 
 ### Codex / OpenAI Agents
 
 ```bash
-git clone https://github.com/ianperezdev/slidev-agent-skill.git \
+git clone https://github.com/6missedcalls/slidev-agent-skill.git \
   ~/.agents/skills/slidev-agent-skill
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/ianperezdev/slidev-agent-skill.git \
+git clone https://github.com/6missedcalls/slidev-agent-skill.git \
   skills/slidev-agent-skill
 ```
 
